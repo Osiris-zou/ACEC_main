@@ -1,6 +1,6 @@
 # Confidence-Aware Edge Calibration for Lightweight Token Merging in Vision Transformers
 
-![Workflow of the proposed confidence-aware edge calibration](image/workflow.jpg)
+![Workflow of the proposed confidence-aware edge calibration](CAEC_main/image/workflow.jpg)
 
 ---
 
